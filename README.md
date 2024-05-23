@@ -1,4 +1,4 @@
-Bu sistemde 3 farklı sekme vardır . son sekmede alanları doldurarak üye ekleyebilir , İkinci sekmede kitap ekleyebilir ,Ve son sekmede ise arattığımız kitabı ödünç alabilir veya durumunu görebilir.
+Bu sistemde 3 farklı sekme var. son sekmede alanları doldurarak üye eklenebilir, İkinci sekmede kitap ekleyebilir, son sekmede ise arattığımız kitabı ödünç alabilir veya durumunu görebilir.
 
 
 ![Resim 1](https://github.com/muratgull07/Kutuphane-Yonetim-Sistemi/assets/148050387/26d636ab-5a1f-42f8-9e27-ca73747eb24b)
